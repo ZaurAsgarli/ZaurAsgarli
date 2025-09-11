@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zaur</h1>
-<h3 align="center">🎓 Bachelor’s in Information Technologies – Baku Engineering University (BEU–INHA Dual Degree Program) 🤖 Aspiring AI/ML Engineer – passionate about computer vision, natural language processing, and predictive modeling 💡 Experienced with Python, TensorFlow, Keras, PyTorch, Scikit-learn, and OpenCV 📊 Interested in applying AI to real-world challenges in automation, analytics, and innovation</h3>
+<h3 align="center">🎓 Bachelor’s in Information Technologies – Baku Engineering University (BEU–INHA Dual Degree Program) 
+  🤖 Aspiring AI/ML Engineer – passionate about computer vision, natural language processing, and predictive modeling 
+  
+  💡 Experienced with Python, TensorFlow, Keras, PyTorch, Scikit-learn, and OpenCV 
+  📊 Interested in applying AI to real-world challenges in automation, analytics, and innovation</h3>
 
 - 🌱 I’m currently learning more about Deep Learning
 
